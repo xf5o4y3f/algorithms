@@ -7,4 +7,6 @@
 **1480. Running Sum of 1d Array**
 ([problem](https://leetcode.com/problems/running-sum-of-1d-array/) / [solution](/leetcode/first-100/1480.js))\
 **1108. Defanging an IP Address**
-([problem](https://leetcode.com/problems/defanging-an-ip-address/) / [solution](/leetcode/first-100/1108.js))
+([problem](https://leetcode.com/problems/defanging-an-ip-address/) / [solution](/leetcode/first-100/1108.js))\
+**1470. Shuffle the Array**
+([problem](https://leetcode.com/problems/shuffle-the-array/) / [solution](/leetcode/first-100/1470.js))
