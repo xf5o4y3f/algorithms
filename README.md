@@ -11,4 +11,6 @@
 **1108. Defanging an IP Address**
 ([problem](https://leetcode.com/problems/defanging-an-ip-address/) / [solution](/leetcode/first-100/1108.js))\
 **1470. Shuffle the Array**
-([problem](https://leetcode.com/problems/shuffle-the-array/) / [solution](/leetcode/first-100/1470.js))
+([problem](https://leetcode.com/problems/shuffle-the-array/) / [solution](/leetcode/first-100/1470.js))\
+**101. Symmetric Tree**
+([problem](https://leetcode.com/problems/symmetric-tree/) / [solution](/leetcode/first-100/101.js))
