@@ -1,5 +1,7 @@
 [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="180"/>](https://leetcode.com/)
 
+**701. Insert into a Binary Search Tree**
+([problem](https://leetcode.com/problems/insert-into-a-binary-search-tree/) / [solution](/leetcode/first-100/701.js))\
 **104. Maximum Depth of Binary Tree**
 ([problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) / [solution](/leetcode/first-100/104.js))\
 **20. Valid Parentheses**
