@@ -1,4 +1,4 @@
-const TreeNode = require("../lib/TreeNode")
+const TreeNode = require("../helpers/TreeNode")
 
 //     3
 //    / \

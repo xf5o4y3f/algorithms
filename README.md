@@ -4,6 +4,8 @@
 ([problem](https://leetcode.com/problems/insert-into-a-binary-search-tree/) / [solution](/leetcode/first-100/701.js))\
 **104. Maximum Depth of Binary Tree**
 ([problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) / [solution](/leetcode/first-100/104.js))\
+**144. Binary Tree Preorder Traversal**
+([problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) / [solution](/leetcode/first-100/144.js))\
 **20. Valid Parentheses**
 ([problem](https://leetcode.com/problems/valid-parentheses/) / [solution](/leetcode/first-100/20.js))\
 **101. Symmetric Tree**

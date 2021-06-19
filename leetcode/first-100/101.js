@@ -1,4 +1,4 @@
-const TreeNode = require("../lib/TreeNode")
+const TreeNode = require("../helpers/TreeNode")
 
 const root = new TreeNode(1)
 root.left = new TreeNode(2)
