@@ -6,6 +6,8 @@
 ([problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) / [solution](/leetcode/first-100/104.js))\
 **144. Binary Tree Preorder Traversal**
 ([problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) / [solution](/leetcode/first-100/144.js))\
+**94. Binary Tree Inorder Traversal**
+([problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) / [solution](/leetcode/first-100/94.js))\
 **20. Valid Parentheses**
 ([problem](https://leetcode.com/problems/valid-parentheses/) / [solution](/leetcode/first-100/20.js))\
 **101. Symmetric Tree**
