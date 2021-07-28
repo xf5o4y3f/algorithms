@@ -14,8 +14,12 @@
 ([problem](https://leetcode.com/problems/symmetric-tree/) / [solution](/leetcode/first-100/101.js))\
 **700. Search in a Binary Search Tree**
 ([problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) / [solution](/leetcode/first-100/700.js))\
+**217. Contains Duplicate**
+([problem](https://leetcode.com/problems/contains-duplicate/) / [solution](/leetcode/first-100/217.js))\
 **1047. Remove All Adjacent Duplicates In String**
 ([problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) / [solution](/leetcode/first-100/1047.js))\
+**268. Missing Number**
+([problem](https://leetcode.com/problems/missing-number/) / [solution](/leetcode/first-100/268.js))\
 **1480. Running Sum of 1d Array**
 ([problem](https://leetcode.com/problems/running-sum-of-1d-array/) / [solution](/leetcode/first-100/1480.js))\
 **1108. Defanging an IP Address**
