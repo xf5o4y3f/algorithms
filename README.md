@@ -10,6 +10,8 @@
 ([problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) / [solution](/leetcode/first-100/94.js))\
 **20. Valid Parentheses**
 ([problem](https://leetcode.com/problems/valid-parentheses/) / [solution](/leetcode/first-100/20.js))\
+**448. Find All Numbers Disappeared in an Array**
+([problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) / [solution](/leetcode/first-100/448.js))\
 **101. Symmetric Tree**
 ([problem](https://leetcode.com/problems/symmetric-tree/) / [solution](/leetcode/first-100/101.js))\
 **700. Search in a Binary Search Tree**
