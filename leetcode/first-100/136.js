@@ -8,11 +8,11 @@ function singleNumber(nums) {
     return acc
   }, {})
 
-   for (const num of nums) {
+  for (const num of nums) {
     if (freqTable[num] === 1) return num
-   }
+  }
 
-  return freqTable
+  return -1
 }
 
 console.log(singleNumber([2, 2, 1]))  //  1
