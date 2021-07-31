@@ -16,6 +16,8 @@
 ([problem](https://leetcode.com/problems/symmetric-tree/) / [solution](/leetcode/first-100/101.js))\
 **700. Search in a Binary Search Tree**
 ([problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) / [solution](/leetcode/first-100/700.js))\
+**136. Single Number**
+([problem](https://leetcode.com/problems/single-number/) / [solution](/leetcode/first-100/136.js))\
 **217. Contains Duplicate**
 ([problem](https://leetcode.com/problems/contains-duplicate/) / [solution](/leetcode/first-100/217.js))\
 **1047. Remove All Adjacent Duplicates In String**
