@@ -6,6 +6,8 @@
 ([problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) / [solution](/leetcode/first-100/104.js))\
 **144. Binary Tree Preorder Traversal**
 ([problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) / [solution](/leetcode/first-100/144.js))\
+**206. Reverse Linked List**
+([problem](https://leetcode.com/problems/reverse-linked-list/) / [solution](/leetcode/first-100/206.js))\
 **876. Middle of the Linked List**
 ([problem](https://leetcode.com/problems/middle-of-the-linked-list/) / [solution](/leetcode/first-100/876.js))\
 **141. Linked List Cycle**
