@@ -1,5 +1,7 @@
 [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="180"/>](https://leetcode.com/)
 
+[**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/)
+([cpp](/leetcode/first-100/20/20.cpp) / [js](/leetcode/first-100/20/20.js))\
 **102. Binary Tree Level Order Traversal**
 ([problem](https://leetcode.com/problems/binary-tree-level-order-traversal/) / [solution](/leetcode/first-100/102.js))\
 **637. Average of Levels in Binary Tree**
@@ -18,8 +20,6 @@
 ([problem](https://leetcode.com/problems/linked-list-cycle/) / [solution](/leetcode/first-100/141.js))\
 **94. Binary Tree Inorder Traversal**
 ([problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) / [solution](/leetcode/first-100/94.js))\
-**20. Valid Parentheses**
-([problem](https://leetcode.com/problems/valid-parentheses/) / [solution](/leetcode/first-100/20.js))\
 **448. Find All Numbers Disappeared in an Array**
 ([problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) / [solution](/leetcode/first-100/448.js))\
 **101. Symmetric Tree**
