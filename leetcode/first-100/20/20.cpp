@@ -1,7 +1,7 @@
-#include <iostream>
-#include <string>
-#include <stack>
 #include <map>
+#include <stack>
+#include <string>
+#include <iostream>
 using namespace std;
 
 //  Time complexity: O(n)
@@ -31,6 +31,6 @@ bool isValid(string brackets) {
 
 int main() {
   cout << isValid("()") << endl; //  true
-
+  
   return 0;
 }
