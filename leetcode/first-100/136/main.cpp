@@ -9,8 +9,8 @@ using namespace std;
 int singleNumber(vector<int>& nums) {
   map<int, int> freqTable;
 
-  for (int i = 0; i < nums.size(); i++) 
-    freqTable[nums[i]] += 1;
+  for (auto x : nums)
+    freqTable[x] += 1;
 
   for (auto x : freqTable)
     if (x.second == 1) return x.first;

@@ -1,11 +1,9 @@
 [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="180"/>](https://leetcode.com/)
 
 [**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/)
-([cpp](/leetcode/first-100/20/20.cpp) / [js](/leetcode/first-100/20/20.js))\
+([cpp](/leetcode/first-100/20/main.cpp) / [js](/leetcode/first-100/20/index.js))\
 [**136. Single Number**](https://leetcode.com/problems/single-number/)
-([cpp](/leetcode/first-100/136/136.cpp) / [js](/leetcode/first-100/136/136.js))\
-**136. Single Number**
-([problem](https://leetcode.com/problems/single-number/) / [solution](/leetcode/first-100/136.js))\
+([cpp](/leetcode/first-100/136/main.cpp) / [js](/leetcode/first-100/136/index.js))\
 **102. Binary Tree Level Order Traversal**
 ([problem](https://leetcode.com/problems/binary-tree-level-order-traversal/) / [solution](/leetcode/first-100/102.js))\
 **637. Average of Levels in Binary Tree**
